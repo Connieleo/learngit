@@ -1,0 +1,2 @@
+# learngit
+init a repository
